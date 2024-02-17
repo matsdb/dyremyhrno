@@ -1,0 +1,12 @@
+@charset "utf-8";
+body{
+    margin:40px auto;
+    max-width:650px;
+    padding:0 10px;
+    font-family:monospace;
+}
+div.socials{
+	text-align: center;
+	border-style: solid;
+	border-width: thin;
+}

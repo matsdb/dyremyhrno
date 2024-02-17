@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+Disallow: /mirror/
+Sitemap: https://dyremyhr.no/sitemap.xml
