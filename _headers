@@ -1,10 +1,10 @@
 /*
-  Content-Security-Policy: default-src 'self';style-src 'nonce-dyremyhrcss';frame-ancestors 'self';base-uri 'self';form-action 'self';script-src 'self' https://static.cloudflareinsights.com;block-all-mixed-content;report-uri https://mats.report-uri.com/r/d/csp/enforce;
+  Content-Security-Policy: default-src 'self';style-src 'nonce-dyremyhrcss';frame-ancestors 'self';base-uri 'self';form-action 'self';script-src 'self' https://static.cloudflareinsights.com;block-all-mixed-content;
   Cross-Origin-Embedder-Policy: require-corp;
   Cross-Origin-Opener-Policy: same-origin;
   Cross-Origin-Resource-Policy: same-origin;
   Permissions-Policy: camera=(), microphone=(), geolocation=(), payment=();
-  Expect-CT: max-age=604800, report-uri="https://mats.report-uri.com/r/d/ct/enforce"
+  Expect-CT: max-age=604800
   X-XSS-Protection: 0;
   X-Frame-Options: SAMEORIGIN
   Referrer-Policy: same-origin
