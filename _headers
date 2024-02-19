@@ -1,5 +1,5 @@
 /*
-  Content-Security-Policy: default-src 'self' 'noncedyremyhrjonld';style-src 'nonce-dyremyhrcss';frame-ancestors 'self';base-uri 'self';form-action 'self';script-src 'self' https://static.cloudflareinsights.com;block-all-mixed-content;report-uri https://mats.report-uri.com/r/d/csp/enforce;
+  Content-Security-Policy: default-src 'self' 'nonce-dyremyhrjsonld';style-src 'nonce-dyremyhrcss';frame-ancestors 'self';base-uri 'self';form-action 'self';script-src 'self' https://static.cloudflareinsights.com;block-all-mixed-content;report-uri https://mats.report-uri.com/r/d/csp/enforce;
   Cross-Origin-Embedder-Policy: require-corp;
   Cross-Origin-Opener-Policy: same-origin;
   Cross-Origin-Resource-Policy: same-origin;
