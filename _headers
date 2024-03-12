@@ -4,7 +4,7 @@
   Cross-Origin-Opener-Policy: same-origin;
   Cross-Origin-Resource-Policy: same-origin;
   Permissions-Policy: camera=(), microphone=(), geolocation=(), payment=();
-  Expect-CT: max-age=604800
+  Expect-CT: enforce, max-age=604800
   X-XSS-Protection: 0;
   X-Frame-Options: SAMEORIGIN
   Referrer-Policy: same-origin
