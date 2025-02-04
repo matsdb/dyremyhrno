@@ -4,6 +4,5 @@
   Cross-Origin-Opener-Policy: same-origin;
   Cross-Origin-Resource-Policy: same-origin;
   Permissions-Policy: camera=(), microphone=(), geolocation=(), payment=();
-  X-XSS-Protection: 0;
   X-Frame-Options: SAMEORIGIN
   Referrer-Policy: same-origin
