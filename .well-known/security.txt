@@ -3,7 +3,7 @@ Hash: SHA256
 
 Contact: mailto:mats@dyremyhr.no
 Encryption: https://dyremyhr.no/pgp-key.txt
-Expires: 2024-12-01T22:59:00.000Z
+Expires: 2025-12-01T22:59:00.000Z
 Canonical: https://dyremyhr.no/.well-known/security.txt
 -----BEGIN PGP SIGNATURE-----
 
