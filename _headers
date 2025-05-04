@@ -1,8 +1,0 @@
-/*
-  Content-Security-Policy: default-src 'self';style-src 'nonce-dyremyhrcss';frame-ancestors 'self';base-uri 'self';form-action 'self';object-src 'none';script-src 'self' https://static.cloudflareinsights.com;block-all-mixed-content;
-  Cross-Origin-Embedder-Policy: require-corp;
-  Cross-Origin-Opener-Policy: same-origin;
-  Cross-Origin-Resource-Policy: same-origin;
-  Permissions-Policy: camera=(), microphone=(), geolocation=(), payment=();
-  X-Frame-Options: SAMEORIGIN
-  Referrer-Policy: same-origin
